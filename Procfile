@@ -1,1 +1,1 @@
-web: tg_bot.exe
+web: tg_bot 
